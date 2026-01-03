@@ -4,7 +4,7 @@ char *ordinal(int v)
 {
 	/*
 	   - create this function
-	   - this code won't run with out it!
+	   - this code won't run with out it! i am testing something
 	 */
 }
 
